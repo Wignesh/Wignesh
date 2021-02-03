@@ -12,7 +12,7 @@
 
 - 👨‍💻 Hacker Earth [https://www.hackerearth.com/@wignesh](https://www.hackerearth.com/@wignesh)
 
--  []()
+-  [](https://docs.google.com/document/d/1PBrAAternN_k71j6CufRr6uxoVcb_NZVdNzzC_sJM-8/edit?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
