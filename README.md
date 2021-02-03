@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  dev.to
 <a href="https://dev.to/wignesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wignesh" height="30" width="40" /></a>
 <a href="https://twitter.com/thewignesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thewignesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wignesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wignesh" height="30" width="40" /></a>
