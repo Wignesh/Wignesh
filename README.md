@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIGNESH J</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wignesh&label=Profile%20views&color=000000&style=flat" alt="wignesh" /> </p>
-
+<!-- 
 - 📫 How to reach me **vignesh@programmer.net**
 
 - 📄 Know about me [https://veee.ga](https://veee.ga)
