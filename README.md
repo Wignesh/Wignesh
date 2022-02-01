@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/Wignesh?template=classic&activity=1&isocalendar=1&languages=1&tweets=1&followup=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&tweets.limit=2&tweets.user=Wignesh&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=UTC&config.animated=true)
+<!-- ![Metrics](https://metrics.lecoq.io/Wignesh?template=classic&activity=1&isocalendar=1&languages=1&tweets=1&followup=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&tweets.limit=2&tweets.user=Wignesh&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=UTC&config.animated=true)
+ -->
